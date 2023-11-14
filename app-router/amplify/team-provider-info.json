@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-approuter-dev-234433-authRole",
+      "UnauthRoleArn": "arn:aws:iam::863718060005:role/amplify-approuter-dev-234433-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::863718060005:role/amplify-approuter-dev-234433-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-approuter-dev-234433-deployment",
+      "UnauthRoleName": "amplify-approuter-dev-234433-unauthRole",
+      "StackName": "amplify-approuter-dev-234433",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:863718060005:stack/amplify-approuter-dev-234433/53d23a80-82fc-11ee-89d1-0ed5236d03ad",
+      "AmplifyAppId": "d3vfo46d03i9xn"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3vfo46d03i9xn",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
